@@ -33,7 +33,6 @@ prepare.bat
 
 * Linux (shell): 
 ```
-chmod +x prepare.sh
 source prepare.sh
 ```
 
