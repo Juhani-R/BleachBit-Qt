@@ -1,0 +1,9 @@
+psutil
+pypiwin32
+PySide6
+PySide6_Addons
+PySide6_Essentials
+python-i18n
+pywin32
+shiboken6
+

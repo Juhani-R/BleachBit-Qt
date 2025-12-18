@@ -1,0 +1,7 @@
+psutil
+PySide6
+PySide6_Addons
+PySide6_Essentials
+python-i18n
+shiboken6
+
