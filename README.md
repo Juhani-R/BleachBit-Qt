@@ -23,7 +23,7 @@ Regarding to the previous, **prerequisites** are as follows and need to be acces
 
 ```
 git clone https://github.com/Juhani-R/BleachBit-Qt.git
-cd bleachbit-qt
+cd BleachBit-Qt
 ```
 
 * Windows (cmd): 
