@@ -8,7 +8,7 @@ The Qt UI is implemented **in parallel** with the existing GTK UI and reuses the
 
 The Qt UI is an experimental version, it can only be run from source at the moment. Scripts (prepare.bat or prepere.sh) are provided for Windows and for Linux (like system) users to ease test setup.
 
-These scripts will:
+Script will:
 * Clone the bleachbit repo
 * Copy source files and directories (from srcqt/) needed to run the software
 * Create Python virtual environment (venv) not to mess system Python installations (venv is created to bleachbit/venv)
