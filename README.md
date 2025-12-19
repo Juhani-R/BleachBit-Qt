@@ -6,7 +6,7 @@ The Qt UI is implemented **in parallel** with the existing GTK UI and reuses the
 
 ## Running developer preview
 
-The Qt UI is an experimental version, it can only be run from source at the moment. Scripts (prepare.bat or prepere.sh) are provided for Windows and for Linux (like system) users to ease test setup.
+The Qt UI is an experimental version, it can only be run from source at the moment. Script (prepare.bat or prepere.sh) is provided for Windows and for Linux (like system) users to ease test setup.
 
 Script will:
 * Clone the bleachbit repo
