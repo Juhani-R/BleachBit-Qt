@@ -52,7 +52,6 @@ if errorlevel 1 exit /b 1
 :: 3) Copy modified / Qt files
 echo Copying files...
 copy /Y "%SOURCE%\bleachbit_qt.py" "%TARGET%\" >nul || exit /b 1
-
 copy /Y "%SOURCE%\__init__.py" "%TARGET%\bleachbit\" >nul || exit /b 1
 copy /Y "%SOURCE%\Cleaner.py" "%TARGET%\bleachbit\" >nul || exit /b 1
 copy /Y "%SOURCE%\Language.py" "%TARGET%\bleachbit\" >nul || exit /b 1
